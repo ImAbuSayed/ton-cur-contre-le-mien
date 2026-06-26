@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ton-cur-contre-le-mien/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Ton Cœur Contre Le Mien](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-cur-contre-le-mien/) |
+| **Get License** | [Request Licensing for Ton Cœur Contre Le Mien](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ton-cur-contre-le-mien/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `08e139e59019abf17dfe23f1d2a3332f8f6b4e778c64edd01196d03efe99e5c4` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

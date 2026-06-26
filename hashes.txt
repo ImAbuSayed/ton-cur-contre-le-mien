@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ton Cœur Contre Le Mien
+
+This log tracks the cryptographic history and versioning for the song **Ton Cœur Contre Le Mien** (ton-cur-contre-le-mien).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T19:24:38.913708 | `v1` | `08e139e59019abf17dfe23f1d2a3332f8f6b4e778c64edd01196d03efe99e5c4` | `7a1aa0f03ece2650c3ca3bce5153d6f20bed529390f7f4527ff67145a21d1ecd` | `2026-06-26_ton-cur-contre-le-mien-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
